@@ -1,0 +1,13 @@
+[project]
+name = "hello-kavi"
+version = "0.0.1"
+description = "مكتبة تجريبية ترجع رسالة ترحيب"
+authors = [
+    { name="Aymene", email="Aymene.0.Khellaf@gmail.com" }
+]
+readme = "README.md"
+license = { text = "MIT" }
+requires-python = ">=3.8"
+
+[project.urls]
+Homepage = ""
